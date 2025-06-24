@@ -1,0 +1,79 @@
+{
+  "agents_count": 17,
+  "contact_methods": [
+    "sms",
+    "email",
+    "call"
+  ],
+  "description": "An accredited, registered, and licensed real estate company established by K A HOMES\nAs a leading company in the United Arab Emirates with its renewed style in real estate activity in the field of marketing and selling real estate throughout the United Arab Emirates. The company has taken great strides in its endeavor to diversify its sales field by making customers one of its top priorities in its business and then proceeding to create services according to their needs.",
+  "id": 102062,
+  "is_featured": true,
+  "licenses": [
+    {
+      "number": "928595",
+      "authority": "DED"
+    },
+    {
+      "number": "25855",
+      "authority": "RERA"
+    }
+  ],
+  "logo": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/346903261/4409eaeff3db4950b1c49fc63d5bece5",
+  "name": "K A Homes Properties",
+  "phone_numbers": {
+    "phone": "",
+    "mobile": "+971509428641",
+    "proxy_phone": ""
+  },
+  "product": "featured",
+  "product_score": 1,
+  "slug": "k-a-homes-properties-102062",
+  "base_location": "Ajman",
+  "base_locations": [
+    {
+      "id": 4,
+      "name": "Ajman",
+      "coordinates": {
+        "lat": 25.403779108056,
+        "lng": 55.540421623239
+      },
+      "full": "UAE -> Ajman",
+      "full_ar": "الإمارات -> عجمان"
+    }
+  ],
+  "stats": {
+    "categories": [
+      "Townhouses",
+      "Villas",
+      "Apartments"
+    ],
+    "service_areas": [
+      "Al Sehma",
+      "Al Helio",
+      .
+      .
+      .
+    ],
+    "purposes": [
+      "for-sale"
+    ],
+    "properties_sale_count": 5169,
+    "properties_rent_count": 0,
+    "properties_total_count": 5169,
+    "service_areas_ar": [
+      "السحمة",
+      "الحليو",
+      .
+      .
+      .
+    ],
+    "category_types_ar": [
+      "تاون هاوس",
+      "فلل",
+      "شقق"
+    ]
+  },
+  "description_ar": "An accredited, registered, and licensed real estate company established by K A HOMES\nAs a leading company in the United Arab Emirates with its renewed style in real estate activity in the field of marketing and selling real estate throughout the United Arab Emirates. The company has taken great strides in its endeavor to diversify its sales field by making customers one of its top priorities in its business and then proceeding to create services according to their needs.",
+  "name_ar": "كي ايه هومز للعقارات",
+  "base_location_ar": "عجمان"
+}

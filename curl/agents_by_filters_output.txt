@@ -1,0 +1,128 @@
+{
+  "results": [
+    {
+      "id": 1948271,
+      "name": "Abdulla Naser",
+      "about_user": "I am an enthusiastic real estate professional working with Al Aliah International Contracting and real estate. It is my duty to bring to my clients the best deals and options available in the market and to provide them with the home they can call their forever home. I can bring strategic approach for any client considering investing in real state. I value honestly and Loyalty, with high patience and drive to ensure best customer care.",
+      "user_image": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/429135570/f1d50c084d9d4224b5dbebcef07ad46d",
+      "agency": {
+        "id": 100483,
+        "name": "Al Aliah International Contracting & Real Estate",
+        "licenses": [
+          {
+            "number": "CN-2867506",
+            "authority": "ADM"
+          },
+          {
+            "number": "202302985597",
+            "authority": "ADM"
+          }
+        ],
+        "logo": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/218049939/142167f83a81479a95307ba9b7ff3429",
+        "slug": "al-aliah-international-contracting-real-estate-100483",
+        "phone_numbers": {
+          "phone": "+97126412288",
+          "mobile": "+971505864468",
+          "proxy_phone": ""
+        },
+        "name_ar": "ﺍﻟﻌﺎﻟﻴﺔ ﺍﻧﺘﺮﻧﺎﺷﻴﻮﻧﺎﻝ ﻟﻠﻤﻘﺎﻭﻻﺕ ﻭﺍﺩﺍﺭﺓ ﺍﻟﻌﻘﺎﺭﺍﺕ"
+      },
+      "avg_star_rating": null,
+      "phone_numbers": {
+        "phone": "+97126412288",
+        "cell": "+971505864468",
+        "whatsapp": "+971505864468",
+        "proxy_phone": "+97122356822",
+        "proxy_mobile": "",
+        "proxy_whatsapp": "+971545695868",
+        "email": "alaliah.int@gmail.com"
+      },
+      "contact_methods": [
+        "email",
+        "call",
+        "whatsapp",
+        "sms"
+      ],
+      "stats": {
+        "total_count": 54,
+        "rent_count": 31,
+        "sale_count": 23,
+        "daily_rent_count": 0,
+        "check_count": 26,
+        "trucheck_count": 1,
+        "review_count": 0
+      },
+      "slug": "abdulla-naser-1948271",
+      "service_areas": [
+        "Abu Dhabi"
+      ],
+      "specialities": [
+        "Residential Sales",
+        "Residential Leasing",
+        "Commercial Sales",
+        "Commercial Leasing",
+        "Off-Plan Sales"
+      ],
+      "speciality_codes": [
+        "residential_sales",
+        "residential_leasing",
+        "commercial_sales",
+        "commercial_leasing",
+        "off_plan_sales"
+      ],
+      "user_langs": [
+        "English",
+        "Arabic"
+      ],
+      "language_codes": [
+        "en",
+        "ar"
+      ],
+      "is_tru_broker": true,
+      "total_xp": 15010,
+      "is_highly_responsive": true,
+      "is_quality_lister": true,
+      "has_badges": true,
+      "active_in_emirate": "Abu Dhabi",
+      "leaderboard_filters": {
+        "location": "/abu-dhabi/al-reef",
+        "category": "residential",
+        "purpose": "for-sale",
+        "completion_status": "completed"
+      },
+      "name_ar": "Abdulla Naser",
+      "about_user_ar": "I am an enthusiastic real estate professional working with Al Aliah International Contracting and real estate. It is my duty to bring to my clients the best deals and options available in the market and to provide them with the home they can call their forever home. I can bring strategic approach for any client considering investing in real state. I value honestly and Loyalty, with high patience and drive to ensure best customer care.",
+      "service_areas_ar": [
+        "Abu Dhabi"
+      ],
+      "specialities_ar": [
+        "بيع العقارات السكنية",
+        "تأجير العقارات السكنية",
+        "بيع العقارات التجارية",
+        "تأجير العقارات التجارية",
+        "البيع على الخارطة"
+      ],
+      "user_langs_ar": [
+        "الإنجليزية",
+        "عربى"
+      ]
+    },
+    {
+      .
+      .
+      .
+    },
+    
+    .
+    .
+    .
+    
+  ],
+  "count": 25,
+  "category": "residential",
+  "purpose": "for-sale",
+  "locations_ids": [
+    2,
+    3
+  ]
+}

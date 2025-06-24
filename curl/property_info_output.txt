@@ -1,0 +1,245 @@
+{
+  "id": 11761721,
+  "title": "Fully Furnished | Handover now | Great Layout",
+  "reference_number": "B-AS-136099",
+  "purpose": "for-sale",
+  "type": {
+    "main": "Residential",
+    "sub": "Apartments",
+    "main_ar": "سكني",
+    "sub_ar": "شقق"
+  },
+  "price": 1310000.0,
+  "area": {
+    "built_up": 863.0,
+    "plot": null,
+    "unit": "sqft"
+  },
+  "details": {
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "furnishing": "unfurnished",
+    "completion_status": "under-construction",
+    "completion_details": {
+      "percentage": 90.0,
+      "start_date": "2023-11-12 20:00:00",
+      "completion_date": "2025-06-29 20:00:00"
+    }
+  },
+  "description": "Property Listing: 1-Bedroom Apartment for Sale in Al Serh Residences 11, Jumeirah Village Circle (JVC), Dubai\n\n- Size: 863 sqft \n- Price: AED 1,310,000 \n- Status: Off-plan, brand new development \n- Furnishing: Fully furnished \n- Bathrooms: 1\n- View: Pool view \n\nThis thoughtfully designed apartment features a spacious open kitchen equipped with modern kitchen appliances and built-in wardrobes, providing ample storage space. The residence includes a balcony overlooking the serene pool, offering a tranquil environment and privacy for residents. \n\nAdditional rooms include a maid’s room, storage room, study room, and laundry room, catering to all functional needs. The apartment benefits from air conditioning and is fully fitted for immediate customization. \n\nResidents of Al Serh Residences 11 will enjoy access to a wide range of world-class amenities, including: \n\n- Private and shared swimming pools \n- Fully equipped fitness centre and shared gym \n- Sauna facilities \n- Elevator access throughout the building \n- Secure and private community environment \n\n\nFor further details and to arrange a viewing, please get in touch. \n\n¶ Property Features: \n✅ Built In Wardrobes\n✅ Kitchen Appliances\n✅ Maid Room\n✅ Storage Room\n✅ Study Room\n✅ Laundry Room\n✅ Balcony\n✅ Elevator\n✅ Brand new\n✅ Fitted\n✅ Furnished\n✅ Investment Property\n✅ Privacy\n✅ New Built\n✅ Air Conditioning\n✅ Sauna\n✅ Open Kitchen\n✅ Fitness Centre\n✅ Shared Gym\n✅ Shared Pool\n\n♣\n\nfam Properties \n Contact Us - [redacted phone number] \n Toll free: 800fam[redacted phone number] \n Email: [redacted email address]\n Visit our website: famproperties. com \n Office Registration no: 1858 \n RERA Broker ID: 8976 \n Permit No:71666743872",
+  "location": {
+    "country": {
+      "id": 1,
+      "name": "UAE",
+      "name_ar": "الإمارات"
+    },
+    "city": {
+      "id": 2,
+      "name": "Dubai",
+      "name_ar": "دبي"
+    },
+    "community": {
+      "id": 59,
+      "name": "Jumeirah Village Circle (JVC)",
+      "name_ar": "قرية جميرا الدائرية"
+    },
+    "sub_community": {
+      "id": 2478,
+      "name": "JVC District 10",
+      "name_ar": "الضاحية 10"
+    },
+    "cluster": {
+      "id": 87382,
+      "name": "Al Serh Residences 11",
+      "name_ar": "الصرح ريزيدنسز 11"
+    },
+    "coordinates": {
+      "lat": 25.068235722137,
+      "lng": 55.207312337965
+    }
+  },
+  "agency": {
+    "id": 9954,
+    "name": "fäm Properties - Branch 7",
+    "logo_url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/96047125/a0643acad8cc4f56be6c26e23116d29b",
+    "licenses": [
+      {
+        "number": "718828",
+        "authority": "DED"
+      },
+      {
+        "number": "1858",
+        "authority": "RERA"
+      },
+      {
+        "number": "613164",
+        "authority": "DED"
+      },
+      {
+        "number": "839535",
+        "authority": "DED"
+      }
+    ],
+    "product": "premium",
+    "performance": "underachieving",
+    "product_score": 2,
+    "name_ar": "فام العقارية - الفرع 7"
+  },
+  "agent": {
+    "id": 1913276,
+    "name": "Dainius Gudauskas",
+    "contact": {
+      "mobile": "",
+      "phone": "",
+      "whatsapp": "",
+      "proxy_phone": ""
+    }
+  },
+  "media": {
+    "cover_photo": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/776459934/a5bf5018f5c6490db61ab833d848df5c",
+    "photo_count": 10,
+    "photos": [
+      "https://bayut-production.s3.eu-central-1.amazonaws.com/image/776459934/a5bf5018f5c6490db61ab833d848df5c",
+      "https://bayut-production.s3.eu-central-1.amazonaws.com/image/776459935/72d4303ddbb240e4bce21044dd3894c9",
+      .
+      .
+      .
+    ],
+    "cover_video": "",
+    "video_count": 0,
+    "videos": [],
+    "panorama_count": 0
+  },
+  "verification": {
+    "is_verified": true,
+    "verified_at": "2025-05-26 12:45:21",
+    "truchecked_at": "2025-05-26 12:45:21"
+  },
+  "legal": {
+    "permit_number": "71666743872",
+    "dld_property_sk": "11761721",
+    "dld_building_nk": "tabu-666738335"
+  },
+  "project": {
+    "id": 2375,
+    "title": "Al Serh Residences 11",
+    "completion_status": "under-construction",
+    "completion_details": {
+      "start_date": "2023-11-12 20:00:00",
+      "completion_date": "2025-06-29 20:00:00",
+      "completion_percentage": 90.0
+    },
+    "developer": {
+      "id": 1167,
+      "name": "Asak Real Estate Development"
+    },
+    "title_ar": "الصرح ريزيدنسز 11"
+  },
+  "contact_methods": [
+    "whatsapp",
+    "sms",
+    "email",
+    "call"
+  ],
+  "meta": {
+    "created_at": "2025-05-26 12:45:16",
+    "updated_at": "2025-06-17 04:51:59",
+    "reactivated_at": "2025-05-26 12:45:16",
+    "approved_at": "2025-05-26 12:45:16",
+    "touched_at": "2025-06-17 05:53:29",
+    "url": "https://www.bayut.com/property/details-11761721.html",
+    "product": "premium",
+    "product_label": "default",
+    "source_id": 1
+  },
+  "city_level_score": 3,
+  "indy_score": 391,
+  "location_purpose_tier": 1,
+  "score": 75,
+  "amenities": [
+    {
+      "type": "Features",
+      "items": [
+        "Centrally Air-Conditioned",
+        "Storage Areas",
+        "Study Room"
+      ],
+      "items_ar": [
+        "نظام تبريد مركزي",
+        "مناطق تخزين",
+        "غرفة دراسة"
+      ]
+    },
+    {
+      "type": "Building",
+      "items": [
+        "Balcony or Terrace"
+      ],
+      "items_ar": [
+        "شرفة أو تراس"
+      ]
+    },
+    {
+      "type": "Health and Fitness",
+      "items": [
+        "Gym or Health Club",
+        "Swimming Pool",
+        "Sauna"
+      ],
+      "items_ar": [
+        "صالة رياضية أو نادي صحي",
+        "مسبح",
+        "ساونا"
+      ]
+    },
+    {
+      "type": "Miscellaneous",
+      "items": [
+        "Maids Room"
+      ],
+      "items_ar": [
+        "غرفة خدم"
+      ]
+    }
+  ],
+  "floor_plan": {
+    "2d_images": [],
+    "3d_images": [],
+    "models": []
+  },
+  "payment_plans": [
+    {
+      "down_payment": {
+        "description": "",
+        "percent": 20.0
+      },
+      "pre_handover": [
+        {
+          "description": "Within 1 month from booking",
+          "percent": 2.0
+        },
+        {
+          "description": "Within 2 months from booking",
+          "percent": 5.0
+        },
+        {
+          "description": "Within 3 months from booking",
+          "percent": 3.0
+        }
+      ],
+      "handover": {
+        "description": "",
+        "percent": 70.0
+      },
+      "post_handover": []
+    }
+  ],
+  "offplan_details": {
+    "sale_type": "",
+    "original_price": null,
+    "paid_price": null,
+    "dld_waiver": ""
+  },
+  "title_ar": "شقة في الصرح ريزيدنسز 11،الضاحية 10،قرية جميرا الدائرية 1 غرفة 1310000 درهم - 11761721",
+  "description_ar": "عقارات: شقة من غرفة نوم واحدة للبيع في السرح ريزيدنسز 11، قرية جميرا الدائرية، دبي\n\n- المساحة: 863 قدم مربع \n- السعر: 1,310,000 درهم إماراتي \n- الحالة: على الخارطة ، تطوير جديد تماما \n- التأثيث: مفروشة بالكامل \n- الحمامات: 1\n- الإطلالة: إطلالة على المسبح \n\nتتميز هذه الشقة المصممة بعناية بمطبخ مفتوح واسع مجهز بأدوات المطبخ الحديثة وخزائن الملابس المدمجة، مما يوفر مساحة تخزين واسعة. يضم السكن شرفة تطل على المسبح الهادئ ، مما يوفر بيئة هادئة وخصوصية للسكان. \n\nتشمل الغرف الإضافية غرفة خادمة وغرفة تخزين وغرفة دراسة وغرفة غسيل تلبي جميع الاحتياجات الوظيفية. تتميز الشقة بتكييف الهواء وهي مجهزة بالكامل للتخصيص الفوري. \n\nسيستمتع سكان السرح ريزيدنس 11 بإمكانية الوصول إلى مجموعة واسعة من وسائل الراحة ذات المستوى العالمي، بما في ذلك: \n\n- حمامات سباحة خاصة ومشتركة \n- مركز لياقة بدنية مجهز بالكامل وصالة ألعاب رياضية مشتركة \n- مرافق الساونا \n- إمكانية الوصول إلى المصعد في جميع أنحاء المبنى \n- بيئة مجتمعية آمنة وخاصة \n\n\nلمزيد من التفاصيل ولترتيب المشاهدة، يرجى الاتصال بنا. \n\n¶ مميزات العقار: \n✅ مدمجة في خزائن الملابس\n✅ أدوات المطبخ\n✅ غرفة خادمة\n✅ غرفة التخزين\n✅ غرفة الدراسة\n✅ غرفة الغسيل\n✅ شرفة\n✅ مصعد\n✅ العلامة التجارية الجديدة\n✅ تركيبها\n✅ مفروش\n✅ عقار استثماري\n✅ الخصوصيه\n✅ بنيت جديد\n✅ تكييف الهواء\n✅ ساونا\n✅ مطبخ مفتوح\n✅ مركز اللياقة البدنية\n✅ صالة ألعاب رياضية مشتركة\n✅ مسبح مشترك\n\n♣\n\nعقارات فام \n اتصل بنا - [redacted phone number] \n الرقم المجاني: 800fam[redacted phone number] \n البريد الإلكتروني: [redacted email address] كوم\n قم بزيارة موقعنا على الإنترنت: famproperties. كوم \n رقم تسجيل المكتب: 1858 \n معرف وسيط مؤسسة التنظيم العقاري: 8976 \n رقم التصريح:71666743872"
+}

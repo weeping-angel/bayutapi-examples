@@ -1,0 +1,109 @@
+{
+  "id": 1852829,
+  "name": "Vishnu Vinod",
+  "about_user": "I am a highly knowledgeable and reliable professional in the real estate industry, particularly in the short term rental sector. I understand the importance of providing quality services and focuses on having a comprehensive understanding of the areas and projects I deals with. By prioritizing quality over quantity, I stay up-to-date with the latest trends, market conditions, and legal requirements in the real estate industry. This enables me to offer reliable advice that aligns with my clients' goals and needs. With my commitment to honesty, customer service, and expertise, I can be a trusted partner in your search for a home or investment property",
+  "user_image": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/587528669/dcb52a50d8cc4dfa845f3d59664b4ab7",
+  "experience": 3,
+  "home_country": "UnitedArabEmirates",
+  "agency": {
+    "id": 100399,
+    "name": "Airas Vacation Home",
+    "licenses": [
+      {
+        "number": "1052193",
+        "authority": "DED"
+      }
+    ],
+    "logo": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/215491862/10a4194f42484849931d478eaf1b8974",
+    "slug": "airas-vacation-home-100399",
+    "phone_numbers": {
+      "phone": "",
+      "mobile": "+971589232609",
+      "proxy_phone": ""
+    },
+    "name_ar": "ايراس فاكيشن هوم"
+  },
+  "avg_star_rating": null,
+  "contact_methods": [
+    "email",
+    "call",
+    "whatsapp",
+    "sms"
+  ],
+  "phone_numbers": {
+    "phone": "",
+    "cell": "+971589232609",
+    "whatsapp": "+971589232609",
+    "proxy_phone": "",
+    "proxy_mobile": "",
+    "proxy_whatsapp": "+971545695868",
+    "email": "hello@airashomerental.com"
+  },
+  "stats": {
+    "total_count": 80,
+    "rent_count": 80,
+    "sale_count": 0,
+    "daily_rent_count": 0,
+    "check_count": 43,
+    "trucheck_count": 35,
+    "review_count": 0
+  },
+  "slug": "vishnu-vinod-1852829",
+  "brn_number": "",
+  "bln_number": "",
+  "service_areas": [
+    "Dubai",
+    "Dubai Marina",
+    .
+    .
+    .
+  ],
+  "specialities": [
+    "Residential Leasing"
+  ],
+  "user_langs": [
+    "English",
+    "Hindi",
+    "Malayalam"
+  ],
+  "state": "active",
+  "is_tru_broker": false,
+  "total_xp": 6935,
+  "is_highly_responsive": true,
+  "is_quality_lister": true,
+  "has_badges": true,
+  "active_in_emirate": "Dubai",
+  "is_profile_completed": true,
+  "is_complete": true,
+  "top_agent": false,
+  "leaderboard_filters": {
+    "location": "/dubai/meydan-city",
+    "category": "short_term_residential",
+    "purpose": "for-rent",
+    "completion_status": "any"
+  },
+  "social_media": {
+    "instagram": "https://www.instagram.com/airas.homerental?igsh=MTkybWd5czBhMzlubA==",
+    "linkedin": "https://www.linkedin.com/in/vishnu-vinod-b76953156?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "facebook": "",
+    "twitter": ""
+  },
+  "name_ar": "Vishnu Vinod",
+  "about_user_ar": "I am a highly knowledgeable and reliable professional in the real estate industry, particularly in the short term rental sector. I understand the importance of providing quality services and focuses on having a comprehensive understanding of the areas and projects I deals with. By prioritizing quality over quantity, I stay up-to-date with the latest trends, market conditions, and legal requirements in the real estate industry. This enables me to offer reliable advice that aligns with my clients' goals and needs. With my commitment to honesty, customer service, and expertise, I can be a trusted partner in your search for a home or investment property",
+  "home_country_ar": "الإمارات",
+  "user_langs_ar": [
+    "الإنجليزية",
+    "الهندية",
+    "اللغةالماليالامية"
+  ],
+  "specialities_ar": [
+    "تأجير العقارات السكنية"
+  ],
+  "service_areas_ar": [
+    "دبي",
+    "دبي مارينا",
+    .
+    .
+    .
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "results": [
+    "Centrally Air-Conditioned",
+    "Distance From Airport (kms)"
+  ],
+  "count": 2,
+  "query": "air"
+}

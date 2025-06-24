@@ -1,0 +1,204 @@
+{
+  "results": [
+    {
+      "id": 11902621,
+      "title": "💠Studio with Swimming Pool | 💠High Floor - 💠MODERN INTERIOR |💠 Investor Deal |💠 Pool View 💠| Resort-Style",
+      "reference_number": "10527-HqMWQ3",
+      "purpose": "for-sale",
+      "type": {
+        "main": "Residential",
+        "sub": "Apartments",
+        "main_ar": "سكني",
+        "sub_ar": "شقق"
+      },
+      "price": 803709.0,
+      "area": {
+        "built_up": 430.0,
+        "plot": null,
+        "unit": "sqft"
+      },
+      "details": {
+        "bedrooms": 0,
+        "bathrooms": 1,
+        "furnishing": "unfurnished",
+        "completion_status": "under-construction",
+        "completion_details": {
+          "percentage": 2.0,
+          "start_date": "2023-11-29 20:00:00",
+          "completion_date": "2027-12-30 20:00:00"
+        }
+      },
+      "keywords": [
+        "gym",
+        "pool view",
+        .
+        .
+        .
+      ],
+      "location": {
+        "country": {
+          "id": 1,
+          "name": "UAE",
+          "name_ar": "الإمارات"
+        },
+        "city": {
+          "id": 2,
+          "name": "Dubai",
+          "name_ar": "دبي"
+        },
+        "community": {
+          "id": 603,
+          "name": "Dubai Land Residence Complex",
+          "name_ar": "مجمع دبي لاند ريزيدنس"
+        },
+        "sub_community": {
+          "id": 87107,
+          "name": "Samana Ivy Gardens 2",
+          "name_ar": "سمانا آيفي جاردنز 2"
+        },
+        "cluster": {
+          "id": null,
+          "name": null,
+          "name_ar": null
+        },
+        "coordinates": {
+          "lat": 25.100567978673,
+          "lng": 55.377066359108
+        }
+      },
+      "agency": {
+        "id": 10527,
+        "name": "Trusty Home for Real Estate",
+        "logo_url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/105840265/43d17f3aba7b48b5b5257c69be564239",
+        "licenses": [
+          {
+            "number": "950348",
+            "authority": "DED"
+          },
+          {
+            "number": "26500",
+            "authority": "RERA"
+          }
+        ],
+        "product": "premium",
+        "product_score": 2,
+        "performance": "overachieving",
+        "name_ar": "ترستي هومز العقارات"
+      },
+      "agent": {
+        "id": 2191615,
+        "name": "Ibrahim Hassan",
+        "profile_image": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/515469508/d2c52169b345480db9d7bf61128304f7",
+        "is_tru_broker": true,
+        "contact": {
+          "mobile": "",
+          "phone": "",
+          "whatsapp": "",
+          "proxy_phone": ""
+        },
+        "name_ar": "Ibrahim Hassan"
+      },
+      "amenities": [
+        "Conference Room",
+        "Completion Year",
+        .
+        .
+        .
+      ],
+      "media": {
+        "cover_photo": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/778964024/50eda0322ef94212a88fd5e7355caa30",
+        "photo_count": 10,
+        "photos": [
+          "https://images.bayut.com/thumbnails/778964024-800x600.jpeg",
+          "https://images.bayut.com/thumbnails/778964025-800x600.jpeg",
+          .
+          .
+          .
+        ],
+        "video_count": 0,
+        "panorama_count": 0,
+        "cover_video": ""
+      },
+      "verification": {
+        "is_verified": true,
+        "verified_at": "2025-06-12 11:21:14",
+        "truchecked_at": "2025-06-12 11:21:14"
+      },
+      "legal": {
+        "permit_number": "71618166211",
+        "dld_property_sk": "11902621",
+        "dld_building_nk": "tabu-618131172"
+      },
+      "project": {
+        "id": 1475,
+        "completion_status": "under-construction",
+        "developer": {
+          "name": "Samana Developers",
+          "id": 901
+        }
+      },
+      "payment_plans": [
+        {
+          "down_payment_percent": 20,
+          "pre_handover_percent": 56,
+          "handover_percent": 1,
+          "post_handover_percent": 23
+        },
+        {
+          "down_payment_percent": 15,
+          "pre_handover_percent": 85,
+          "handover_percent": null,
+          "post_handover_percent": null
+        },
+        {
+          "down_payment_percent": 20,
+          "pre_handover_percent": 80,
+          "handover_percent": null,
+          "post_handover_percent": null
+        }
+      ],
+      "contact_methods": [
+        "whatsapp",
+        "sms",
+        "email",
+        "call"
+      ],
+      "indy_score": 623,
+      "score": 75,
+      "city_level_score": 3,
+      "location_purpose_tier": 3,
+      "meta": {
+        "created_at": "2025-06-12 11:21:01",
+        "updated_at": "2025-06-18 02:19:54",
+        "reactivated_at": "2025-06-12 11:21:01",
+        "product": "premium",
+        "url": "https://www.bayut.com/property/details-11902621.html",
+        "product_label": "default",
+        "source_id": 1
+      },
+      "offplan_details": {
+        "sale_type": "",
+        "original_price": null,
+        "paid_price": null,
+        "dld_waiver": null
+      },
+      "title_ar": "💠 استوديو مع مسبح | 💠 طابق مرتفع 💠 تصميم داخلي عصري | 💠 فرصة استثمارية 💠 إطلالة على المسبح | 💠 أسلوب حياة منتجعي",
+      "amenities_ar": [
+        "غرفة اجتماعات",
+        "سنة إتمام مشروع",
+        .
+        .
+        .
+      ],
+      "keywords_ar": [
+        "مسبح",
+        "نادي رياضي",
+        .
+        .
+        .
+      ]
+    }
+  ],
+  "count": 1,
+  "page": 0
+}

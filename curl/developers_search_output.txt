@@ -1,0 +1,67 @@
+{
+  "results": [
+    {
+      "id": 1011,
+      "name": "AB Developers",
+      "logo": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/726323858/b52a7b45dc3d4b6bb29b2df77787fb90",
+      "phone_numbers": {
+        "phone": "+97142277712",
+        "mobile": "",
+        "proxy_phone": ""
+      },
+      "slug": "ab-developers",
+      "contact_methods": [
+        "email",
+        "call"
+      ],
+      "created_at": "2024-06-10T08:15:30.895329+00:00",
+      "stats": {
+        "categories": [
+          "Apartments",
+          "Other Commercial"
+        ],
+        "service_areas": [
+          "Jumeirah Village Circle (JVC)",
+          "Dubai Islands"
+        ],
+        "purposes": [
+          "for-sale"
+        ],
+        "properties_sale_count": 2,
+        "properties_rent_count": 0,
+        "properties_total_count": 2,
+        "service_areas_ru": [
+          "Джумейра Вилладж Серкл (ДЖВС)",
+          "Дейра Айленд"
+        ],
+        "categories_ru": [
+          "Апартаменты",
+          "Другие коммерческие"
+        ],
+        "service_areas_ar": [
+          "قرية جميرا الدائرية",
+          "جزر دبي"
+        ],
+        "categories_ar": [
+          "شقق",
+          "عقارات تجارية أخرى"
+        ]
+      },
+      "name_ru": "AB Developers",
+      "name_ar": "AB Developers"
+    },
+    {
+      .
+      .
+      .
+    },
+    
+    .
+    .
+    .
+
+  ],
+  "count": 3,
+  "query": "ab",
+  "page": 0
+}

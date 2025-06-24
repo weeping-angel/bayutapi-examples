@@ -1,0 +1,119 @@
+{
+  "results": [
+    {
+      "id": 102062,
+      "name": "K A Homes Properties",
+      "agents_count": 17,
+      "product": "featured",
+      "product_score": 1,
+      "logo": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/346903261/4409eaeff3db4950b1c49fc63d5bece5",
+      "base_location": "Ajman",
+      "licenses": [
+        {
+          "number": "928595",
+          "authority": "DED"
+        },
+        {
+          "number": "25855",
+          "authority": "RERA"
+        }
+      ],
+      "slug": "k-a-homes-properties-102062",
+      "phone_numbers": {
+        "phone": "",
+        "mobile": "+971509428641",
+        "proxy_phone": ""
+      },
+      "base_locations": [
+        {
+          "id": 4,
+          "name": "Ajman",
+          "coordinates": {
+            "lat": 25.403779108056,
+            "lng": 55.540421623239
+          },
+          "full": "UAE -> Ajman",
+          "full_ar": "الإمارات -> عجمان"
+        }
+      ],
+      "contact_methods": [
+        "sms",
+        "email",
+        "call"
+      ],
+      "created_at": "2023-02-15T10:00:24+00:00",
+      "stats": {
+        "categories": [
+          "Townhouses",
+          "Villas",
+          "Apartments"
+        ],
+        "service_areas": [
+          "Al Sehma",
+          "Al Helio",
+          .
+          .
+          .
+        ],
+        "purposes": [
+          "for-sale"
+        ],
+        "properties_sale_count": 5169,
+        "properties_rent_count": 0,
+        "properties_total_count": 5169,
+        "service_areas_ar": [
+          "السحمة",
+          "الحليو",
+          .
+          .
+          .
+        ],
+        "categories_ar": [
+          "تاون هاوس",
+          "فلل",
+          "شقق"
+        ]
+      },
+      "agents": [
+        {
+          "id": 2319585,
+          "name": "Lamia Alaa Eldeen",
+          "brn_number": "",
+          "bln_number": "",
+          "name_ar": "Lamia Alaa Eldeen"
+        },
+        .
+        .
+        .
+      ],
+      "language_codes": [
+        "fr",
+        "en",
+        "ar"
+      ],
+      "speciality_codes": [
+        "residential_leasing",
+        "residential_sales",
+        "commercial_leasing",
+        "commercial_sales",
+        "off_plan_sales"
+      ],
+      "is_featured": true,
+      "agency_sg": 1,
+      "ex_status": true,
+      "name_ar": "كي ايه هومز للعقارات",
+      "base_location_ar": "عجمان"
+    },
+    
+    .
+    .
+    .
+
+  ],
+  "count": 25,
+  "locations_ids": [
+    2,
+    3
+  ],
+  "page": 0
+}

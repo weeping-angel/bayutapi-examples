@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "id": 3,
+      "name": "Abu Dhabi",
+      "level": "city",
+      "full": {
+        "country": {
+          "id": 1,
+          "name": "UAE",
+          "name_ar": "الإمارات"
+        },
+        "city": {
+          "id": 3,
+          "name": "Abu Dhabi",
+          "name_ar": "أبوظبي"
+        }
+      },
+      "coordinates": {
+        "lat": 23.379725784884,
+        "lng": 52.959231626126
+      },
+      "completion_status": "mixed",
+      "name_ar": "أبوظبي"
+    },
+    {
+      .
+      .
+      .
+    },
+
+    .
+    .
+    .
+    
+  ],
+  "count": 25,
+  "query": "abu",
+  "page": 0
+}

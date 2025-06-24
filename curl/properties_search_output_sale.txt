@@ -1,0 +1,201 @@
+{
+  "results": [
+    {
+      "id": 11847573,
+      "title": "Discover Elevated Living at Binghatti | Iconic Views & Smart Homes",
+      "reference_number": "RY105766-JxWky8",
+      "purpose": "for-sale",
+      "type": {
+        "main": "Residential",
+        "sub": "Apartments",
+        "main_ar": "سكني",
+        "sub_ar": "شقق"
+      },
+      "price": 811000.0,
+      "area": {
+        "built_up": 436.0,
+        "plot": null,
+        "unit": "sqft"
+      },
+      "details": {
+        "bedrooms": 0,
+        "bathrooms": 1,
+        "is_furnished": false,
+        "completion_status": "under-construction",
+        "completion_details": {
+          "percentage": 32.0,
+          "start_date": "2024-07-30 20:00:00",
+          "completion_date": "2026-03-30 20:00:00"
+        }
+      },
+      "keywords": [
+        "modern",
+        "burj",
+        .
+        .
+        .
+      ],
+      "location": {
+        "country": {
+          "id": 1,
+          "name": "UAE",
+          "name_ar": "الإمارات"
+        },
+        "city": {
+          "id": 2,
+          "name": "Dubai",
+          "name_ar": "دبي"
+        },
+        "community": {
+          "id": 1509,
+          "name": "Al Jaddaf",
+          "name_ar": "الجداف"
+        },
+        "sub_community": {
+          "id": 21741,
+          "name": "Dubai Healthcare City Phase 2",
+          "name_ar": "مدينة دبي الطبية المرحلة 2"
+        },
+        "cluster": {
+          "id": 87381,
+          "name": "Binghatti Ghost",
+          "name_ar": "بن غاطي جوست"
+        },
+        "coordinates": {
+          "lat": 25.213840421575,
+          "lng": 55.318301615816
+        }
+      },
+      "agency": {
+        "id": 105766,
+        "name": "Kommanda Real Estate Brokerage",
+        "logo_url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/747350369/5e35256872974fdb8c1f2038e0c637d3",
+        "licenses": [
+          {
+            "number": "1290059",
+            "authority": "DED"
+          },
+          {
+            "number": "40186",
+            "authority": "RERA"
+          }
+        ],
+        "product": "premium",
+        "product_score": 2,
+        "performance": "well_achieving",
+        "name_ar": "كوماندا للوساطة العقارية"
+      },
+      "agent": {
+        "id": 2499779,
+        "name": "Walid Ahmed Ali",
+        "profile_image": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/766665972/d01e813089f541e397b162e4c1e6018f",
+        "is_tru_broker": false,
+        "contact": {
+          "mobile": "",
+          "phone": "",
+          "whatsapp": "",
+          "proxy_phone": ""
+        },
+        "name_ar": "Walid Ahmed Ali"
+      },
+      "amenities": [
+        "Sauna",
+        "Steam Room",
+        .
+        .
+        .
+      ],
+      "media": {
+        "cover_photo": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/778101017/c544c263b0fe4fba983793c644425946",
+        "photo_count": 10,
+        "photos": [
+          "https://images.bayut.com/thumbnails/778101017-800x600.jpeg",
+          .
+          .
+          .
+        ],
+        "video_count": 0,
+        "panorama_count": 0,
+        "cover_video": ""
+      },
+      "verification": {
+        "is_verified": true,
+        "verified_at": "2025-06-18 21:54:02",
+        "truchecked_at": "2025-06-18 21:54:02"
+      },
+      "legal": {
+        "permit_number": "71653152639",
+        "dld_property_sk": "11847573",
+        "dld_building_nk": "tabu-653139508"
+      },
+      "project": {
+        "id": 2060,
+        "completion_status": "under-construction",
+        "developer": {
+          "name": "Binghatti Developers",
+          "id": 85
+        }
+      },
+      "payment_plans": [
+        {
+          "down_payment_percent": 20,
+          "pre_handover_percent": 50,
+          "handover_percent": 30,
+          "post_handover_percent": null
+        }
+      ],
+      "contact_methods": [
+        "whatsapp",
+        "sms",
+        "email",
+        "call"
+      ],
+      "indy_score": 439,
+      "score": 75,
+      "city_level_score": 3,
+      "location_purpose_tier": 3,
+      "meta": {
+        "created_at": "2025-06-04 12:02:48",
+        "updated_at": "2025-06-19 14:49:11",
+        "reactivated_at": "2025-06-04 12:02:48",
+        "product": "premium",
+        "url": "https://www.bayut.com/property/details-11847573.html",
+        "product_label": "default",
+        "source_id": 1
+      },
+      "offplan_details": {
+        "sale_type": "",
+        "original_price": null,
+        "paid_price": null,
+        "dld_waiver": null
+      },
+      "title_ar": "اكتشف حياة راقية في Binghatti | إطلالات مميزة وتقنيات المنازل الذكية",
+      "amenities_ar": [
+        "ساونا",
+        "غرفة بخار",
+        .
+        .
+        .
+      ],
+      "keywords_ar": [
+        "مسبح",
+        "حديقة",
+        .
+        .
+        .
+      ]
+    },
+    {
+      .
+      .
+      .
+    },
+
+    .
+    .
+    .
+
+  ],
+  "count": 25,
+  "page": 0
+}

@@ -1,0 +1,202 @@
+{
+  "results": [
+    {
+      "id": 11982401,
+      "title": "Brand New| Higher Floor | Smart Home",
+      "reference_number": "1068223-MHD",
+      "purpose": "for-rent",
+      "type": {
+        "main": "Residential",
+        "sub": "Apartments",
+        "main_ar": "سكني",
+        "sub_ar": "شقق"
+      },
+      "price": 68000.0,
+      "area": {
+        "built_up": 525.0,
+        "plot": null,
+        "unit": "sqft"
+      },
+      "details": {
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "is_furnished": false,
+        "completion_status": "completed",
+        "completion_details": {
+          "percentage": 38.0,
+          "start_date": "2023-05-24 20:00:00",
+          "completion_date": "2024-09-29 20:00:00"
+        }
+      },
+      "keywords": [
+        "garden",
+        "mall",
+        .
+        .
+        .
+      ],
+      "location": {
+        "country": {
+          "id": 1,
+          "name": "UAE",
+          "name_ar": "الإمارات"
+        },
+        "city": {
+          "id": 2,
+          "name": "Dubai",
+          "name_ar": "دبي"
+        },
+        "community": {
+          "id": 59,
+          "name": "Jumeirah Village Circle (JVC)",
+          "name_ar": "قرية جميرا الدائرية"
+        },
+        "sub_community": {
+          "id": 2758,
+          "name": "JVC District 11",
+          "name_ar": "الضاحية 11"
+        },
+        "cluster": {
+          "id": 84482,
+          "name": "Binghatti Gardenia",
+          "name_ar": "بن غاطي جاردينيا"
+        },
+        "coordinates": {
+          "lat": 25.058846567164,
+          "lng": 55.212929127535
+        }
+      },
+      "agency": {
+        "id": 106821,
+        "name": "Homify Properties",
+        "logo_url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/773394924/e02e760ff0d84001adf7e626248b3b1b",
+        "licenses": [
+          {
+            "number": "1474277",
+            "authority": "DED"
+          },
+          {
+            "number": "49180",
+            "authority": "RERA"
+          }
+        ],
+        "product": "premium",
+        "product_score": 2,
+        "performance": "overachieving",
+        "name_ar": "هوميفاي للعقارات"
+      },
+      "agent": {
+        "id": 2533698,
+        "name": "Mohammad Tbakhi",
+        "profile_image": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/776927518/575ee82d57814c5eaed7dba9508891f5",
+        "is_tru_broker": true,
+        "contact": {
+          "mobile": "",
+          "phone": "",
+          "whatsapp": "",
+          "proxy_phone": ""
+        },
+        "name_ar": "Mohammad Tbakhi"
+      },
+      "amenities": [
+        "Balcony or Terrace",
+        "Centrally Air-Conditioned",
+        .
+        .
+        .
+      ],
+      "media": {
+        "cover_photo": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/780391589/11383eaa4e15441d9489b1d00ea97297",
+        "photo_count": 14,
+        "photos": [
+          "https://images.bayut.com/thumbnails/780391589-800x600.jpeg",
+          "https://images.bayut.com/thumbnails/780391591-800x600.jpeg",
+          .
+          .
+          .
+        ],
+        "video_count": 0,
+        "panorama_count": 0,
+        "cover_video": ""
+      },
+      "verification": {
+        "is_verified": true,
+        "verified_at": "2025-06-21 15:01:55",
+        "truchecked_at": "2025-06-21 15:01:55"
+      },
+      "legal": {
+        "permit_number": "71508451108",
+        "dld_property_sk": "11982401",
+        "dld_building_nk": "tabu-508439263"
+      },
+      "project": {
+        "id": 1342,
+        "completion_status": "completed",
+        "developer": {
+          "name": "Binghatti Developers",
+          "id": 85
+        }
+      },
+      "payment_plans": [
+        {
+          "down_payment_percent": 20,
+          "pre_handover_percent": 50,
+          "handover_percent": 30,
+          "post_handover_percent": null
+        }
+      ],
+      "contact_methods": [
+        "whatsapp",
+        "sms",
+        "email",
+        "call"
+      ],
+      "indy_score": 750,
+      "score": 75,
+      "city_level_score": 1,
+      "location_purpose_tier": 1,
+      "meta": {
+        "created_at": "2025-06-20 12:59:14",
+        "updated_at": "2025-06-22 06:19:33",
+        "reactivated_at": "2025-06-20 12:59:14",
+        "product": "superhot",
+        "url": "https://www.bayut.com/property/details-11982401.html",
+        "product_label": "default",
+        "source_id": 1
+      },
+      "offplan_details": {
+        "sale_type": "",
+        "original_price": null,
+        "paid_price": null,
+        "dld_waiver": null
+      },
+      "title_ar": "شقة في بن غاطي جاردينيا،الضاحية 11،قرية جميرا الدائرية 1 غرفة 68000 درهم - 11982401",
+      "amenities_ar": [
+        "شرفة أو تراس",
+        "نظام تبريد مركزي",
+        .
+        .
+        .
+      ],
+      "keywords_ar": [
+        "ايجار جديد",
+        "بحر",
+        .
+        .
+        .
+      ]
+    },
+    {
+      .
+      .
+      .
+    }
+
+    .
+    .
+    .
+
+  ],
+  "count": 7,
+  "page": 0
+}

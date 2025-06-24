@@ -1,0 +1,49 @@
+{
+  "results": [
+    {
+      "amount": "875000.00",
+      "category": "Sales",
+      "date": "2024-12-30",
+      "property": {
+        "floor": "5",
+        "beds": "1",
+        "type": "apartments",
+        "builtup_area": {
+          "sqft": 589.0
+        },
+        "plot_area": {
+          "sqft": null
+        },
+        "occupancy_status": "Vacant On Transfer"
+      },
+      "location": {
+        "id": 980,
+        "location": "Marina Diamond 2",
+        "coordinates": {
+          "latitude": 25.069448,
+          "longitude": 55.134892
+        },
+        "full_location": "Dubai Marina -> Marina Diamonds -> Marina Diamond 2"
+      },
+      "agent_id": 2347968,
+      "status": "Approved",
+      "contract": {
+        "monthly_amount": "",
+        "contract_type": "Unknown",
+        "duration_months": ""
+      }
+    },
+    {
+      .
+      .
+      .
+    },
+
+    .
+    .
+    .
+    
+  ],
+  "count": 20,
+  "page": 0,
+}

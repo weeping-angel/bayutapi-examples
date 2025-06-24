@@ -1,0 +1,108 @@
+{
+  "results": [
+    {
+      "id": 2540611,
+      "name": "Mohamed Samir A",
+      "about_user": "Properties are Choices  , So make your choice on the right way , and this is a pleasure to guide you in this way. 9 years of  experience in UAE market between Sale and Rent. Work to provide you with all the right decisions and a realistic and analytical view of the variables of the real estate market to choose the best decision to buy the property , whether for investment or end user . Feel Free to contact me for any consultation at any time. Mohamed Samir.",
+      "user_image": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/778953858/c0b14860741f4f2ca4d63e0e9fb9f238",
+      "experience": 9,
+      "home_country": "Egypt",
+      "avg_star_rating": null,
+      "contact_methods": [
+        "email",
+        "call",
+        "whatsapp",
+        "sms"
+      ],
+      "phone_numbers": {
+        "phone": "",
+        "cell": "+971508109406",
+        "whatsapp": "+971508109406",
+        "proxy_phone": "",
+        "proxy_mobile": "",
+        "proxy_whatsapp": "+971545695868",
+        "email": "alialheloka@gmail.com"
+      },
+      "stats": {
+        "total_count": 875,
+        "rent_count": 0,
+        "sale_count": 875,
+        "daily_rent_count": 0,
+        "check_count": 0,
+        "trucheck_count": 0,
+        "review_count": 0
+      },
+      "slug": "mohamed-samir-a-2540611",
+      "brn_number": "62525",
+      "bln_number": "",
+      "service_areas": [
+        "Dubai",
+        "Abu Dhabi",
+        "Ajman",
+        "Sharjah",
+        "Umm Al Quwain"
+      ],
+      "specialities": [
+        "Residential Sales",
+        "Commercial Sales",
+        "Off-Plan Sales"
+      ],
+      "user_langs": [
+        "English",
+        "Arabic"
+      ],
+      "state": "active",
+      "is_tru_broker": false,
+      "total_xp": 0,
+      "is_highly_responsive": false,
+      "is_quality_lister": false,
+      "has_badges": false,
+      "active_in_emirate": "unknown",
+      "is_profile_completed": true,
+      "is_complete": true,
+      "top_agent": false,
+      "leaderboard_filters": {
+        "location": "/sharjah/barashi",
+        "category": "residential",
+        "purpose": "for-sale",
+        "completion_status": "any"
+      },
+      "social_media": {
+        "instagram": "https://www.instagram.com/ka_homes_properties/",
+        "linkedin": "",
+        "facebook": "https://www.facebook.com/kahomes.properties",
+        "twitter": "https://twitter.com/KAhomes2"
+      },
+      "name_ar": "Mohamed Samir A",
+      "about_user_ar": "Properties are Choices  , So make your choice on the right way , and this is a pleasure to guide you in this way. 9 years of  experience in UAE market between Sale and Rent. Work to provide you with all the right decisions and a realistic and analytical view of the variables of the real estate market to choose the best decision to buy the property , whether for investment or end user . Feel Free to contact me for any consultation at any time. Mohamed Samir.",
+      "home_country_ar": "مصر",
+      "user_langs_ar": [
+        "الإنجليزية",
+        "عربى"
+      ],
+      "specialities_ar": [
+        "بيع العقارات السكنية",
+        "بيع العقارات التجارية",
+        "البيع على الخارطة"
+      ],
+      "service_areas_ar": [
+        "دبي",
+        "أبوظبي",
+        "عجمان",
+        "الشارقة",
+        "أم القيوين"
+      ]
+    },
+    {
+      .
+      .
+      .
+    },
+
+    .
+    .
+    .
+
+  ],
+  "count": 10
+}

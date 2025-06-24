@@ -1,0 +1,133 @@
+{
+  "results": [
+    {
+      "id": 2281326,
+      "name": "Vipul Shrivastava",
+      "about_user": "A visionary CEO of one of the top Real Estate agencies in the region. A passionate real estate professional, Our CEO lives and breathes real estate every day. He specializes in helping buyers find the right property to suit their needs as well as investors aiming to acquire well-paying assets. With over 9 years of experience in Dubai real estate market, he has an unmatched wealth of knowledge in all aspects of the sector, including the continuously evolving laws and regulations that govern the market. In Dubai real estate arena, Our CEO anticipates more exciting changes in the future and looks forward to using them to help those who want to succeed in this dynamic",
+      "user_image": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/631529155/c8e502f714384c259d916cb1342cc1d9",
+      "agency": {
+        "id": 102421,
+        "name": "Avcor Real Estate",
+        "licenses": [
+          {
+            "number": "1094909",
+            "authority": "DED"
+          },
+          {
+            "number": "31569",
+            "authority": "RERA"
+          },
+          {
+            "number": "1094909",
+            "authority": "ORN"
+          }
+        ],
+        "logo": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/370752609/30213c1ceb75460aa2789f76a4fe2ae9",
+        "slug": "avcor-real-estate-102421",
+        "phone_numbers": {
+          "phone": "+97158232476",
+          "mobile": "+971582324760",
+          "proxy_phone": ""
+        },
+        "name_ar": "افكور العقارية"
+      },
+      "avg_star_rating": null,
+      "phone_numbers": {
+        "phone": "+97158232476",
+        "cell": "+971585581477",
+        "whatsapp": "+971585581477",
+        "proxy_phone": "+97142477669",
+        "proxy_mobile": "",
+        "proxy_whatsapp": "+971545695868",
+        "email": "vipul@avcorrealty.com"
+      },
+      "contact_methods": [
+        "email",
+        "call",
+        "whatsapp",
+        "sms"
+      ],
+      "stats": {
+        "total_count": 37,
+        "rent_count": 6,
+        "sale_count": 31,
+        "daily_rent_count": 0,
+        "check_count": 12,
+        "trucheck_count": 24,
+        "review_count": 0
+      },
+      "slug": "vipul-shrivastava-2281326",
+      "service_areas": [
+        "District One Villas",
+        "The Valley by Emaar",
+        .
+        .
+        .
+      ],
+      "specialities": [
+        "Residential Sales",
+        "Residential Leasing",
+        "Commercial Sales",
+        "Off-Plan Sales"
+      ],
+      "speciality_codes": [
+        "residential_sales",
+        "residential_leasing",
+        "commercial_sales",
+        "off_plan_sales"
+      ],
+      "user_langs": [
+        "English",
+        "Hindi"
+      ],
+      "language_codes": [
+        "en",
+        "hi"
+      ],
+      "is_tru_broker": true,
+      "total_xp": 4285,
+      "is_highly_responsive": true,
+      "is_quality_lister": true,
+      "has_badges": true,
+      "active_in_emirate": "Dubai",
+      "leaderboard_filters": {
+        "location": "/dubai/tilal-al-ghaf",
+        "category": "residential",
+        "purpose": "for-sale",
+        "completion_status": "under-construction"
+      },
+      "name_ar": "Vipul Shrivastava",
+      "about_user_ar": "A visionary CEO of one of the top Real Estate agencies in the region. A passionate real estate professional, Our CEO lives and breathes real estate every day. He specializes in helping buyers find the right property to suit their needs as well as investors aiming to acquire well-paying assets. With over 9 years of experience in Dubai real estate market, he has an unmatched wealth of knowledge in all aspects of the sector, including the continuously evolving laws and regulations that govern the market. In Dubai real estate arena, Our CEO anticipates more exciting changes in the future and looks forward to using them to help those who want to succeed in this dynamic",
+      "service_areas_ar": [
+        "فلل ديستريكت 1",
+        "ذا فالي من اعمار",
+        .
+        .
+        .
+      ],
+      "specialities_ar": [
+        "بيع العقارات السكنية",
+        "تأجير العقارات السكنية",
+        "بيع العقارات التجارية",
+        "البيع على الخارطة"
+      ],
+      "user_langs_ar": [
+        "الإنجليزية",
+        "الهندية"
+      ]
+    },
+    {
+      .
+      .
+      .
+    },
+
+    .
+    .
+    .
+    
+  ],
+  "count": 4,
+  "query": "vipul",
+  "page": 0
+}
