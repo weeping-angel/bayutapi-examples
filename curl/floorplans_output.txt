@@ -1,0 +1,52 @@
+{
+   "child_locations" : [],
+   "floorplans" : [
+      {
+         "2d_imgs" : [
+            "https://images.bayut.com/thumbnails/73144811-800x600.webp"
+         ],
+         "3d_imgs" : [
+            "https://images.bayut.com/thumbnails/73149708-800x600.webp"
+         ],
+         "baths" : 3,
+         "beds" : 2,
+         "category" : [
+            "Residential",
+            "Apartments"
+         ],
+         "id" : 8805,
+         "models" : [
+            "https://sketchfab.com/models/6f2aff3e989f461a9904162875bb9976/embed"
+         ],
+         "state" : "active"
+      },
+
+      .
+      .
+      .
+
+   ]
+}
+
+{
+   "child_locations" : [
+      {
+         "floorplans_count" : 139,
+         "id" : 3712,
+         "name" : "Dubai Marina Towers",
+         "slug" : "/dubai/dubai-marina/dubai-marina-towers"
+      },
+      {
+         "floorplans_count" : 98,
+         "id" : 1567,
+         "name" : "DAMAC Heights",
+         "slug" : "/dubai/dubai-marina/damac-heights"
+      },
+      
+      .
+      .
+      .
+
+   ],
+   "floorplans" : []
+}
